@@ -1,0 +1,17 @@
+id,name,durability,description,price
+book_of_the_mage,Book of the Mage,N/A,A novice's tome of arcane whispers, teaching detection and light in shadowed depths.,25
+book_of_the_priest,Book of the Priest,N/A,Holy writ of blessings and cures, invoking divine aid against unholy foes.,30
+book_of_gates,Book of Gates,N/A,Portal-lore for teleporting through veils, risky rifts to realms unknown.,40
+book_of_wizardry,Book of Wizardry,N/A,Advanced incantations of fire and force, bending elements to the caster's will.,50
+book_of_exorcisms,Book of Exorcisms,N/A,Prayers to banish demons and dispel curses, sacred seals against spectral siege.,35
+grimoire_of_elements,Grimoire of Elements,N/A,Magiclysm codex attuning to fire, ice, and storm, awakening primal fury within.,60
+grimoire_of_mutations,Grimoire of Mutations,N/A,Twisted tome of body-alteration, grafting spells into flesh for hybrid might.,70
+a_beginners_guide_to_magic,A Beginners Guide to Magic,N/A,Introductory scrollwork for fledgling mages, basics of mana and minor cantrips.,20
+a_treatise_on_magical_elements,A Treatise on Magical Elements,N/A,Scholarly disquisition on arcane forces, unlocking attunements to earth's fury.,45
+technomancers_guide,Technomancer's Guide to Debugging C:DDA,N/A,Debug artifact blending code and curse, glitches reality for the initiated.,80
+book_of_prayers,Book of Prayers,N/A,Priestly ledger of invocations, from healing hands to holy wrath.,28
+book_of_lore,Book of Lore,N/A,Moria's compendium of forgotten rites, spells woven from elder songs.,35
+book_of_druidic_rites,Book of Druidic Rites,N/A,Nature's spells of growth and gale, communing with wild winds and woods.,40
+book_of_arcane_mysteries,Book of Arcane Mysteries,N/A,Vaulted secrets of wizard peaks, spells that warp time and tide.,60
+grimoire_of_illusion,Grimoire of Illusion,N/A,Phantasmal arts to deceive senses, shadows dancing as solid foes.,55
+grimoire_of_necromancy,Grimoire of Necromancy,N/A,Dark rites raising the restless dead, puppets of bone in service eternal.,75

@@ -1,0 +1,26 @@
+id,name,durability,description,price
+t_shirt,T-Shirt,60,A basic cotton tee, sweat-stained but breathable in humid ruins.,8
+jeans,Levi's Jeans,70,Durable denim pants with pockets for tools and regrets.,15
+jacket,Leather Jacket,80,Tough hide coat that weathers storms and stray claws alike.,25
+rag,Rag,50,A torn cloth remnant, versatile for wipes or desperate warmth.,3
+socks,Socks,40,Woolen foot warmers, holey but better than blisters on the march.,4
+underwear,Underwear,50,Plain briefs, the last bastion of dignity in the end times.,5
+sweater,Wool Sweater,65,Itchy knit layer for chilly nights by the campfire.,12
+pants,Cargo Pants,75,Multi-pocketed trousers for hauling loot from the dead.,18
+shirt,Dress Shirt,55,Faded button-up, once for offices, now for bartering.,10
+hat,Ball Cap,40,Embroidered lid to shield eyes from glaring sun and stares.,6
+bandana,Bandana,50,Versatile neckerchief for dust, blood, or signaling.,5
+gloves,Work Gloves,60,Leather palms for gripping rusty metal without tetanus.,10
+boots,Work Boots,80,Steel-toed stompers for kicking doors and zombie skulls.,30
+coat,Winter Coat,90,Thick parka stuffed with insulation against blizzards and despair.,40
+scarf,Scarf,50,Woolen wrap for muffling coughs in quarantined zones.,7
+belt,Leather Belt,70,Sturdy strap for holsters or improvised tourniquets.,8
+sunglasses,Sunglasses,30,Aviators to cut glare off irradiated sands.,5
+watch,Wristwatch,50,Battered timepiece, ticking away the hours till dawn.,12
+backpack,Daypack,70,Nylon rucksack for daily forages, straps frayed but faithful.,20
+poncho,Poncho,60,Oilskin cape for rain-slicked streets and sudden downpours.,15
+hoodie,Hoodie,65,Cotton pullover with hood for blending into shadows.,12
+shorts,Shorts,50,Khaki cut-offs for hot zones, pockets full of lint and lintels.,6
+tank_top,Tank Top,55,Sleeveless undershirt, sweat-wicking in sweltering shelters.,7
+vest,Fishing Vest,60,Canvas utility vest with loops for lures and lockpicks.,18
+robe,Robe,85,Flowing garment of fine weave, a touch of lost elegance in the wilds.,25

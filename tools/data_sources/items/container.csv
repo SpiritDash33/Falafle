@@ -1,0 +1,21 @@
+id,name,durability,description,price
+water_bottle,Plastic Water Bottle,40,Reusable PET vessel for hauling hydration through the hordes.,10
+backpack,Leather Backpack,70,Rugged satchel for gear, straps worn from endless evacuations.,25
+duffel_bag,Duffel Bag,60,Canvas holdall for bulk loot, zippers sticky with grime.,20
+jar,Glass Jar,30,Mason's canning relic, seals freshness or ferments horrors.,5
+bottle,Empty Bottle,20,Recycled glass for messages or molotovs in a pinch.,3
+can,Empty Can,25,Tin cylinder, punctured for stoves or projectiles.,2
+pot,Steel Pot,80,Cast-iron cookware for boiling the unboilable.,15
+pan,Frying Pan,75,Non-stick skillet, dents from zombie skulls notwithstanding.,12
+bucket,Plastic Bucket,50,Utility hauler for water or waste in camps.,8
+jerrycan,Jerry Can,90,Military fuel drum, red for gas or red for blood.,30
+cooler,Ice Chest,70,Insulated box for perishables, now mostly for warm beer.,25
+toolbox,Toolbox,80,Metal caddy of wrenches, locked against thieves.,20
+ammo_box,Ammo Box,60,Waterproof case for rounds, stenciled with faded calibers.,15
+pill_bottle,Pill Bottle,40,Orange plastic dispenser, childproof cap a joke now.,5
+vial,Glass Vial,20,Lab phial for potions or poisons in alchemical dreams.,4
+sack,Burlap Sack,50,Rustic bag for potatoes or prisoners, ties with twine.,6
+pouch,Leather Pouch,60,Belt-worn wallet for small valuables and secrets.,10
+wallet,Leather Wallet,50,Folded billfold, cards expired but photos eternal.,5
+briefcase,Briefcase,70,Samsonite survivor, latches for documents or dynamite.,18
+suitcase,Suitcase,80,Wheeled luggage for the displaced, wheels squeak like ghosts.,22

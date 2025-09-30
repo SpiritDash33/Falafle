@@ -1,0 +1,16 @@
+id,name,durability,description,price
+abakh,Âbakh,N/A,A mysterious Moria artifact, whispers secrets of the deep in runes.,25
+torch,Torch,20,Flaming brand of pitch and pine, lights paths or lures lurkers.,5
+crystal_flare,Crystal Flare,N/A,Glowing quartz that pulses with inner fire, wards off endless night.,15
+balins_key,Balin's Key,N/A,Brass relic unlocking doors to forgotten lore and traps.,20
+frars_key,Frar's Key,N/A,Iron key etched with dwarven oaths, turns locks with a sigh.,18
+lonis_key,Loni's Key,N/A,Bronze opener for Loni's hidden vaults of gems and grief.,22
+oins_key,Oin's Key,N/A,Steel sigil for Oin's forge-secrets, heavy with unspoken loss.,25
+oris_key,Ori's Key,N/A,Golden key of Ori's maps, guides to glory or gloom.,30
+hearth,Stone Hearth,100,Masonry heart of home, warms tales around crackling flames.,40
+wooden_beam,Wooden Beam,80,Hewn timber for supports or swings in desperate defenses.,15
+iron_door,Iron Door,90,Banded portal forged against intruders, creaks with ancient echoes.,35
+mithril_shirt,Mithril Shirt,100,Bilbo's gleaming hauberk, invisible armor for hobbit hearts.,80
+elven_cloak,Elven Cloak,95,Lórien's mallorn weave, blends with leaves and longing.,60
+wooden_axe,Wooden Axe,60,Rustic handle and head, fells trees or foes with folksy force.,12
+stone_wall,Stone Wall,100,Mortar-bound barrier, stands sentinel against siege and storm.,50

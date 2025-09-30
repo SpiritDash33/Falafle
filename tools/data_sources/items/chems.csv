@@ -1,0 +1,26 @@
+id,name,durability,description,price
+aspirin,Aspirin Tablets,N/A,Over-the-counter pain reliever to dull the ache of endless survival.,5
+antibiotic,Antibiotic Pills,N/A,Life-saving broad-spectrum meds against infection's creeping rot.,15
+disinfectant,Disinfectant Spray,N/A,Sterilizing foam to clean wounds before they fester in the filth.,8
+iodine,Iodine Tincture,N/A,Stinging brown liquid that burns away bacteria from cuts and scrapes.,6
+morphine,Morphine Injector,N/A,Potent opioid syringe for numbing agony during desperate surgeries.,20
+caffeine,Caffeine Pills,N/A,Jittery stimulants to push through another sleepless night on watch.,4
+adderall,Adderall Pills,N/A,Focus-enhancing amphetamines, risky but vital for long scavenging runs.,12
+alcohol,Alcohol Bottle,N/A,High-proof spirits for disinfection or drowning sorrows in the bunker.,10
+bleach,Bleach,N/A,Harsh cleaner for purifying water or bleaching bloodstains from gear.,3
+mutagen,Experimental Mutagen,N/A,Mutagenic serum from labs gone dark, promises power at the cost of humanity.,50
+purifier,Water Purifier,N/A,Portable filter to turn sludge into drinkable survival nectar.,25
+smelling_salts,Smelling Salts,N/A,Acrid crystals to jolt the unconscious back to the fight.,5
+painkillers,Painkiller Pills,N/A,Generic analgesics to mask the pain of broken bones and worse.,8
+antibiotics,Antibiotics,N/A,Pharmacy stockpile against the plague-ridden hordes.,18
+prozac,Prozac Pills,N/A,Antidepressants to stave off the madness of isolation.,10
+herbal_tea,Herbal Tea,N/A,Foraged leaves brewed for minor healing and a moment's calm.,4
+energy_drink,Energy Drink,N/A,Chemical cocktail of caffeine and sugar for a burst of false vigor.,6
+vitamins,Vitamin Pills,N/A,Multivitamin supplements to fight scurvy in the canned wasteland.,7
+sleeping_pills,Sleeping Pills,N/A,Sedatives for forced rest amid the night's horrors.,8
+antihistamine,Antihistamine,N/A,Allergy blockers, useless against zombies but handy for pollen.,5
+epinephrine,Epinephrine Injector,N/A,Adrenaline auto-injector for allergic shocks or heart-stopping fear.,15
+insulin,Insulin Injector,N/A,Vital hormone shots for diabetics in a world without fridges.,20
+antirad,Anti-Rad Pills,N/A,Radiation scrubbers to purge fallout from your irradiated veins.,30
+iodine_tablets,Iodine Tablets,N/A,Thyroid protectors against nuclear ghosts in the wind.,12
+charcoal,Activated Charcoal,N/A,Porous powder to bind toxins in your gut after bad rations.,5

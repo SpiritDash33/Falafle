@@ -1,0 +1,31 @@
+id,name,durability,description,price
+knife,Survival Knife,90,Serrated blade for cutting cord or throats in silence.,25
+crowbar,Crowbar,95,Pry-bar brute for doors and domes of undead skulls.,20
+spear,Improvised Spear,80,Sharpened stick with rag wrap, reach your foe's regret.,15
+longsword,Longsword,75,Balanced steel for sweeping arcs in armored clashes.,40
+rapier,Rapier,80,Thrusting foil for duels in derelict ballrooms.,35
+warhammer,War Hammer,70,Bludgeoning maul that crumples plate like parchment.,45
+mace,Mace,65,Flanged crusher for sundering shields and spines.,30
+pipe_club,Pipe Club,85,Lead-filled tube, swings like industrial wrath.,12
+hunting_knife,Hunting Knife,90,Gut-hook tanto for field dressing game or ghouls.,28
+short_bow,Short Bow,70,Recurve yew for silent shots from shadowed perches.,25
+improvised_axe,Improvised Axe,60,Hatchet head on branch, chops wood or windpipes.,15
+iron_sword,Iron Sword,75,Forge-hot blade from Moria's fires, heavy with history.,35
+iron_war_axe,Iron War Axe,80,Broad-headed cleaver for orc-hewing in dim halls.,40
+steel_sword,Steel Sword,85,Quenched edge that sings through leather and bone.,45
+steel_battleaxe,Steel Battleaxe,80,Dwarven double-bladed fury, bites deep into stone too.,50
+last_alliance_maul,Last Alliance Maul,85,Elendil's relic hammer, crushes with the weight of ages.,60
+eregion_spear,Eregion Spear,80,Noldorin ash shaft tipped in ithildin, pierces shadows.,35
+first_age_sword,First Age Sword,95,Beren's curved blade, glows with the light of lost stars.,70
+first_age_greatsword,First Age Greatsword,95,Túrin's massive sword, dragon-slaying heft in two hands.,80
+belegost_halberd,Belegost Halberd,90,Polearm of blue steel, hooks and hacks in phalanx lines.,55
+dimrill_spear,Dimrill Spear,85,Misty mountain pike, barbed for goblin fishing.,30
+khazad_war_mattock,Khazad War Mattock,90,Mining pick-axe hybrid, digs graves or digs in heels.,40
+khazad_war_axe,Khazad War Axe,90,Khazad broadaxe, bearded for bearding dwarven beards.,45
+khazad_maul,Khazad Maul,90,Sledge of Khazad-dûm, flattens foes like forge anvils.,50
+sagrurisabun,Sagrurisabun,95,Ancient curved scimitar, whispers of eastern sands.,65
+radiant_sword_of_nogrod,Radiant Sword of Nogrod,100,Nogrod's glowing greatsword, light-bane to dark things.,90
+red_axe_of_nogrod,Red Axe of Nogrod,100,Flame-forged Nogrod cleaver, thirsts for troll blood.,85
+wooden_spear,Wooden Spear,50,Hastily whittled branch, pokes more than pierces.,8
+pipe,Pipe (Melee),60,Plumbed bludgeon from plumbing, hollow for hidden surprises.,10
+bat,Baseball Bat,70,Aluminum slugger, home-run cracks on hollow heads.,18

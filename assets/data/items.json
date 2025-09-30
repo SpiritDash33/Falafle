@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "id": "health_potion",
+      "name": "Health Potion",
+      "category": "consumable",
+      "description": "Restores health",
+      "weight": 0.5,
+      "value": 50
+    },
+    {
+      "id": "mana_potion",
+      "name": "Mana Potion",
+      "category": "consumable",
+      "description": "Restores mana",
+      "weight": 0.5,
+      "value": 50
+    },
+    {
+      "id": "torch",
+      "name": "Torch",
+      "category": "tool",
+      "description": "Provides light",
+      "weight": 1.0,
+      "value": 10
+    },
+    {
+      "id": "spell_book_fire",
+      "name": "Fire Spell Book",
+      "category": "book",
+      "description": "Teaches fire spell",
+      "weight": 2.0,
+      "value": 200,
+      "teaches_spells": [ "fire_bolt" ]
+    },
+    {
+      "id": "spell_book_heal",
+      "name": "Healing Spell Book",
+      "category": "book",
+      "description": "Teaches healing spell",
+      "weight": 2.0,
+      "value": 300,
+      "teaches_spells": [ "heal", "light" ]
+    }
+  ],
+  "spells": {
+    "fire_bolt": [ "fire_bolt" ],
+    "heal": [ "heal" ],
+    "light": [ "light" ]
+  }
+}

@@ -1,0 +1,21 @@
+id,name,durability,description,price
+wand_of_magic_missile,Wand of Magic Missile,N/A,Zap of arcane darts, homing bolts of blue fire for ranged retribution.,30
+wand_of_lightning_bolt,Wand of Lightning Bolt,N/A,Crackling rod unleashing thunder-lances, chains through clustered foes.,40
+wand_of_fireball,Wand of Fireball,N/A,Pyre-stick summoning inferno orbs, engulfs enemies in explosive flames.,45
+staff_of_teleportation,Staff of Teleportation,N/A,Gnarled wand for warping warriors away, scatters packs in panic.,35
+staff_of_healing,Staff of Healing,N/A,Vital oak rod mending flesh and bone, pulses with restorative light.,50
+staff_of_genocide,Staff of Genocide,N/A,Dread scepter erasing enemy kinds, wipes breeds from the battlefield.,70
+potion_of_healing,Potion of Healing,5,Vial of crimson elixir, knits wounds with a warm, tingling surge.,20
+potion_of_cure_poison,Potion of Cure Poison,5,Emerald draught flushing toxins, clears veins of venom's vile grasp.,15
+potion_of_speed,Potion of Speed,5,Amber accelerant blurring limbs, grants fleet-footed frenzy for flight.,25
+potion_of_invisibility,Potion of Invisibility,5,Shimmering serum cloaking form, slips shadows unseen by sight.,30
+rod_of_detection,Rod of Detection,N/A,Crystal probe sensing secrets, reveals traps and treasures hidden.,25
+rod_of_curing,Rod of Curing,N/A,Silver shaft purging plagues, heals diseases with diagnostic glow.,35
+wand_of_stinking_cloud,Wand of Stinking Cloud,N/A,Fume-flinger birthing noxious blobs, billows blight on breathing foes.,28
+staff_of_mapping,Staff of Mapping,N/A,Surveyor's stave charting caverns, etches maps in mind's eye.,20
+potion_of_enlightenment,Potion of Enlightenment,5,Golden libation lifting veils, grants wisdom of worlds unseen.,40
+wand_of_drain_life,Wand of Drain Life,N/A,Vampiric twig siphoning vitality, withers foes to feed the wielder.,45
+staff_of_starlite,Staff of Starlite,N/A,Celestial pole illuminating vast voids, banishes black with stellar blaze.,50
+potion_of_resistance,Potion of Resistance,5,Multihued mixture shielding senses, wards against elemental onslaughts.,35
+rod_of_recall,Rod of Recall,N/A,Homing crystal calling homeward, bends space to safe harbor's shore.,55
+wand_of_wonder,Wand of Wonder,N/A,Chaotic stick of random rites, unleashes whimsy or woe with whims.,40

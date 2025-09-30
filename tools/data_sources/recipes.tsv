@@ -1,0 +1,157 @@
+input1	input2	output	skill	time	unlock
+# CDDA Survival/Fabrication (~100)
+stick	sharp_rock	spear	survival	100	
+rock	rock	sharp_rock	survival	50	
+flax		crude_linen_string	survival	75	
+wood	crude_linen_string	staff_sling	survival	150	
+rag	rag	bandage	first_aid	50	
+rag	duct_tape	improvised_bandage	first_aid	80	
+stone	stone	flint	knapping	40	
+branch	branch	straight_branch	survival	60	
+vine	vine	plant_fiber	survival	70	
+plant_fiber	straight_branch	wooden_spear	survival	90	
+rag	plant_fiber	torn_cloth	survival	50	
+torn_cloth	torn_cloth	cloth_sheet	fabrication	100	
+cloth_sheet	cloth_sheet	t_shirt	fabrication	120	
+leather	leather	leather_patches	fabrication	80	
+leather_patches	leather_patches	leather_jacket	fabrication	150	
+nail	2x4	nail_board	fabrication	60	
+nail_board	nail_board	barricade	fabrication	200	
+scrap_metal	hacksaw	metal_sheet	fabrication	110	
+metal_sheet	metal_sheet	metal_plate	fabrication	180	
+wire	metal_plate	chain_fence	fabrication	250	
+cotton_boll	cotton_thread	fabric	fabrication	60	
+fabric	fabric	vest	fabrication	130	
+kevlar	kevlar	kevlar_plate	fabrication	250	
+kevlar_plate	vest	kvest	fabrication	300	
+hide	scraper	leather	fabrication	100	
+leather	leather	boots	fabrication	150	
+scrap_metal	metal_sheet	vehicle_frame	fabrication	300	
+tire	rubber	rubber_tire	fabrication	200	
+engine	vehicle_frame	car_chassis	mechanics	500	
+# CDDA Food/Comestible (~50)
+veggie	knife	chopped_veggie	comestible	20	
+meat	knife	chopped_meat	comestible	25	
+chopped_veggie	chopped_meat	stew	comestible	80	
+water	potable_water	comestible	10	
+herbs	water	herbal_tea	chems	40	
+milk	rennet	cheese	comestible	150	
+flour	water	dough	fabrication	50	
+dough	oven	bread	comestible	100	
+egg	dough	pancake_batter	comestible	30	
+pancake_batter	pan	pancakes	comestible	40	
+salt	meat	jerky	comestible	120	
+can_beans	knife	cooked_beans	fabrication	30	
+mre	water_bottle	hydrated_mre	fabrication	40	
+beefjerky	herbs	jerky_pack	comestible	40	
+wine	grapes	fermented_wine	chems	300	
+biscuit	flour	baked_bread	fabrication	150	
+raw_meat	salt	beef_jerky	comestible	60	
+mushrooms	knife	chopped_mushrooms	comestible	30	
+chopped_mushrooms	water	mushroom_soup	comestible	80	
+bread	cheese	sandwich	comestible	20	
+apple	knife	dried_apple	comestible	40	
+# CDDA Chems/Meds (~40)
+disinfectant	rag	sterile_rag	first_aid	60	
+antibiotic	pill_bottle	antibiotic_course	chems	50	
+alcohol	rag	alcohol_pad	chems	40	
+thread	needle	suture_kit	first_aid	70	
+suture_kit	wound	stitched_wound	first_aid	200	
+iodine	rag	iodine_tincture	chems	80	
+caffeine	pill	energy_pill	chems	30	
+opium	powder	morphine	chems	150	
+aspirin	rag	pain_pill_pouch	chems	60	
+# CDDA Melee/Weapons (~40)
+pipe	duct_tape	pipe_club	melee	100	
+blade	wood	knife_handle	melee	80	
+knife_handle	blade	hunting_knife	melee	120	
+bolt	pipe_crossbow	quarrel	archery	150	
+stringy	wood	bow_string	archery	90	
+bow_string	straight_branch	short_bow	archery	200	
+knife	wood	arrow	archery	120	
+# CDDA Electronics/Tools (~50)
+battery	acid	battery_acid	electronics	70	
+wire	copper_wire	insulated_wire	electronics	90	
+transistor	radio	improvised_radio	electronics	200	
+capacitor	battery	shock_collar	electronics	250	
+resistor	capacitor	improvised_cap	electronics	100	
+soldering_iron	circuit_board	electronic_scrap	electronics	150	
+flashlight	battery	charged_flashlight	electronics	70	
+crowbar	duct_tape	improvised_crowbar	fabrication	90	
+9mm	knife	bullets_crafted	ammo	200	
+hacksaw	metal_scrap	metal_shard	fabrication	110	
+multitool	rag	tool_kit	toolmaking	100	
+shovel	wood	improvised_shovel	survival	130	
+pick	rope	mining_pick	mining	180	
+# CDDA Ammo (~30)
+gunpowder	charcoal	sulfur_powder	chem	150	
+sulfur_powder	potassium_nitrate	gunpowder	chem	200	
+gunpowder	casing	bullet_cartridge	ammo	100	
+# Moria (~60 from guide)
+Hides		Adventurer’s Pack	N/A	N/A	statue
+Steel Ingot	Ubasam Wood	Leather	Brewskin	N/A	N/A	statue
+True-Quartz		Crystal Flare	N/A	N/A	statue
+Hide Scraps		Scout’s Pack	N/A	N/A	statue
+Wood Scraps		Torch	N/A	N/A	statue
+Khazad Steel Ingots		Balin’s Key	N/A	N/A	statue
+Khazad Steel Ingots		Frar’s Key	N/A	N/A	statue
+Bronze Ingots		Loni’s Key	N/A	N/A	statue
+Bronze Ingots		Oin’s Key	N/A	N/A	statue
+Iron Ingot		Ori’s Key	N/A	N/A	statue
+Iron Ingots	Wood Scraps	Iron Hammer	N/A	N/A	statue
+Steel Ingots	Elven Wood	Hide	Steel Hammer	N/A	N/A	statue
+Shanor Ingots	Black Diamond	Ubasam Wood	Shanor Hammer	N/A	N/A	Great Library
+Star-Metal Ingots	Black Diamond	Star-metal Hammer	N/A	N/A	statue
+Adamant	Ironwood	Fine Leather	Adamant Hammer	N/A	N/A	Khuzdul Forge
+Metal Fragments	Wood Scraps	Simple Pickaxe	N/A	N/A	statue
+Steel Ingots	Elven Wood	Hide	Steel Pickaxe	N/A	N/A	statue
+Steel Ingots	Black Diamond	Ubasam Wood	First Age Pickaxe	N/A	N/A	statue
+Shanor Ingots	Black Diamond	Ironwood	Ironwood Pickaxe	N/A	N/A	statue
+Durinul Iron Ingots	Sun-Stones	Ironwood	Fine Leather	Durin’s Axe	N/A	N/A	Great Forge of Durin
+Steel Ingots	Silver Ingots	Black Diamond	Ubasam Wood	Quarrymaster	N/A	N/A	Great Forge of Narvi
+Steel Ingot	Elven Wood	Wanderkeg	N/A	N/A	Great Forge of Narvi
+Wood Scraps	Cloth Scraps	Wood Flare	N/A	N/A	statue
+Steel Ingot	True-Quartz	Wood Scraps	Hide	Zarok Torch	N/A	N/A	Great Forge of Narvi
+		Iron Hills Armor	N/A	N/A	Western Halls
+		Iron War Axe	N/A	N/A	Western Halls
+		Iron Hills Gloves	N/A	N/A	Western Halls
+		Eregion Shield	N/A	N/A	Elven Quarter
+		Elven Arrows	N/A	N/A	Elven Quarter
+		Erebor Boots	N/A	N/A	Mines of Moria
+		Erebor Planked Gauntlets	N/A	N/A	Mines of Moria
+		Last Alliance Maul	N/A	N/A	Mines of Moria
+		Erebor Ringmail	N/A	N/A	Mines of Moria
+		First Age Crossbow	N/A	N/A	Lower Deeps
+		Belegost Boots	N/A	N/A	Lower Deeps
+		First Age Greatsword	N/A	N/A	Lower Deeps
+		Belegost Ringmail	N/A	N/A	Lower Deeps
+		Steel Battleaxe	N/A	N/A	Dwarrowdelf
+		Erebor City Watch Helmet	N/A	N/A	Dwarrowdelf
+		Khazad War Axe	N/A	N/A	Dwarrowdelf
+		Khazad War Mattock	N/A	N/A	Dwarrowdelf
+		Khazad Maul	N/A	N/A	Dwarrowdelf
+		Khazad Army Gauntlets	N/A	N/A	Dwarrowdelf
+		Khazad Army Boots	N/A	N/A	Dwarrowdelf
+		Khazad Army Armor	N/A	N/A	Dwarrowdelf
+Star-Metal Ingots	Black Diamond	Star-Metal Hammer	N/A	N/A	statue
+Iron Bar	Stick	Iron Spear	forging	150	
+Iron Bar	Wood	Iron Sword	forging	200	
+Iron Bar	Axe Head	Iron War Axe	forging	180	
+Steel Bar	Iron Bar	First Age Battleaxe	forging	300	
+Mithril Bar	Steel Bar	First Age Greatsword	forging	350	
+Wood	Iron Bar	Iron Pickaxe	mining	120	
+Stone	Stone	Hearth Stone	building	100	
+Hearth Stone	Iron Bar	Hearth	building	250	
+Wood	Plank	Wooden Beam	building	80	
+Plank	Plank	Wooden Wall	building	150	
+Iron Bar	Iron Bar	Iron Door	forging	200	
+Raw Meat	Salt	Beef Jerky	comestible	60	
+Mushrooms	Knife	Chopped Mushrooms	comestible	30	
+Chopped Mushrooms	Water	Mushroom Soup	comestible	80	
+Bread	Cheese	Sandwich	comestible	20	
+Apple	Knife	Dried Apple	comestible	40	
+Stone Block	Mortar	Stone Wall	building	180	
+Log	Log	Wooden Log	building	100	
+Wooden Log	Axe Handle	Wooden Axe	toolmaking	120	
+Fabric	 Needle	Elven Cloak	armor_smithing	250	
+Mithril Bar	Fabric	Mithril Shirt	armor_smithing	400	

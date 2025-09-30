@@ -1,0 +1,31 @@
+id,name,durability,description,price
+flashlight,D-Cell Flashlight,70,Battery-guzzling beam to pierce the post-apoc dark.,15
+multitool,Leatherman Multitool,90,Folding wonder with pliers, knife, and screwdrivers for fixes.,30
+hacksaw,Hacksaw,85,Fine-toothed blade for cutting bars or bones in builds.,12
+headlamp,Headlamp,75,Strap-on LED for hands-free delving into danger.,18
+shovel,Shovel,60,Spade for digging graves, latrines, or defensive ditches.,20
+pick,Pick,55,Mattock for mining ore or cracking concrete shelters.,25
+lighter,Zippo Lighter,30,Flip-top flint for fires, cigarettes, or signaling.,8
+matches,Box of Matches,N/A,Phosphorus sticks for instant ignition, waterproof if lucky.,5
+duct_tape,Duct Tape,40,Silver savior for repairs, from wounds to wiring.,10
+battery,AA Battery,N/A,Alkaline cell for gadgets, scavenged from toy graveyards.,2
+rope,Nylon Rope,90,Braided line for climbing, tying, or trapping the unwary.,15
+scouts_pack,Scout's Pack,60,Moria explorer's satchel, pockets for maps and mushrooms.,22
+steel_hammer,Steel Hammer,80,Blacksmith's sledge for nails or noggins in the forge.,25
+simple_pickaxe,Simple Pickaxe,70,Rustic digger for casual cave-ins or gem hunts.,18
+adventurers_pack,Adventurer's Pack,70,Well-worn rucksack for quests, quivers, and quick escapes.,28
+steel_pickaxe,Steel Pickaxe,85,Dwarven delver's tool, bites rock like butter.,35
+iron_hammer,Iron Hammer,75,Ironhead maul for basic bashing in black depths.,20
+mountaineers_pack,Mountaineer's Pack,80,Rugged framepack for peaks, packed with pitons and pride.,32
+first_age_pickaxe,First Age Pickaxe,95,Feanor's ancient adze, unearths treasures or trolls.,50
+shanor_hammer,Shanor Hammer,90,Shanor's star-forged mallet, rings like thunder on anvil.,40
+ironwood_pickaxe,Ironwood Pickaxe,95,Ironwood haft with diamond tip, fells forests of stone.,45
+star_metal_hammer,Star-metal Hammer,100,Celestial alloy beater, forges fate in fiery sparks.,60
+adamant_hammer,Adamant Hammer,100,Unbreakable Aule's gift, shapes mountains to will.,70
+screwdriver,Screwdriver,50,Phillips or flathead for tinkering traps or toasters.,6
+wrench,Adjustable Wrench,65,Monkey key for plumbing pipes or loosening teeth.,10
+hammer,Claw Hammer,70,Carpenter's nail-driver, pulls as well as pounds.,12
+saw,Hand Saw,75,Rip or crosscut for lumber or limbs in lean-tos.,15
+file,Metal File,60,Rasp for sharpening edges or filing down fears.,8
+pliers,Pliers,55,Needle-nose grabbers for wires or whiskers in wiring.,9
+soldering_iron,Soldering Iron,80,Hot tip for circuits, melts metal or mistakes alike.,20

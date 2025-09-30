@@ -1,0 +1,68 @@
+id,name,durability,hunger_restoration,description,price
+can_beans,Canned Beans,N/A,30,Preserved legumes in tin, bland but filling fuel for the road.,8
+mre,Meal Ready to Eat,N/A,50,Military vacuum-sealed chow, tastes like cardboard but sustains the fight.,20
+apple,Apple,N/A,12,A crisp red orb from overgrown orchards, a rare fresh bite in decay.,5
+banana,Banana,N/A,15,Yellow curve of potassium, bruised but sweet memories of markets.,4
+bread,Bread,N/A,25,Loaf of yeasted dough, stale yet staling hunger's edge.,6
+cheese,Cheese,N/A,20,Whey-hard wedge, pungent and protein-packed for lean times.,7
+beefjerky,Beef Jerky,N/A,18,Dried strips of cow, chewy salvation from a butcher's last cut.,10
+ration,Ration of Food,N/A,40,Standard-issue brick of nutrition, engineered for endurance.,15
+waybread,Elvish Waybread,N/A,80,Light lembas-like wafer, sustains for days with elven grace.,30
+wine,Pint of Fine Wine,N/A,5,Ruby vintage from cellars, warms the belly and blurs the horrors.,12
+biscuit,Hard Biscuit,N/A,10,Ship's rock-hard cracker, teeth-breaker but belly-filler.,3
+stew,Canned Stew,N/A,35,Chunky meat-veg mix in a can, hearty warmth from a fire.,9
+soup,Mushroom Soup,N/A,28,Creamy fungi broth, foraged flavors in a foggy world.,7
+sandwich,Cheese Sandwich,N/A,32,Simple bread-cheese stack, portable picnic for nomads.,8
+dried_apple,Dried Apple,N/A,8,Shriveled fruit rings, tart chew for trail rations.,2
+jerky_pack,Jerky Pack,N/A,22,Assorted meat strips bundled, variety in the void.,12
+baked_bread,Baked Bread,N/A,30,Fresh-from-oven loaf, aroma of home in a ruined bakery.,7
+pancakes,Pancakes,N/A,25,Fluffy griddle cakes, syrup dreams in batter form.,6
+rotten_apple,Rotten Apple,N/A,0,Foul brown mush, attracts flies more than fills bellies.,0
+spoiled_milk,Spoiled Milk,N/A,0,Curdled white gone green, a vomit-inducing mistake.,0
+raw_meat,Raw Meat,N/A,0,Bloody hunk from the hunt, risky without fire's kiss.,5
+cooked_meat,Cooked Meat,N/A,45,Seared flesh over flames, juices locked in savory triumph.,15
+chopped_veggie,Chopped Veggie,N/A,10,Diced roots and greens, base for stews or raw crunch.,3
+herbal_tea,Herbal Tea,N/A,5,Steeped leaves for soothing sips, heals body and spirit.,4
+energy_bar,Energy Bar,N/A,20,Compact calorie bomb, chocolate-coated desperation.,10
+granola_bar,Granola Bar,N/A,15,Nutty oat slab, sticks to teeth like old grudges.,8
+chocolate,Chocolate Bar,N/A,12,Silky cocoa treat, melts morale back into shape.,6
+nuts,Mixed Nuts,N/A,18,Trail mix handful, crunchy protein from the wild.,7
+honey,Honey Jar,N/A,10,Golden nectar from bee-thieves, sweet salve for wounds too.,9
+mushroom_stew,Mushroom Stew,N/A,25,Foraged fungi simmered slow, earthy comfort in bowls.,6
+roast_meat,Roast Meat,N/A,40,Juicy haunch over embers, dwarven feast for weary halls.,12
+roasted_fruit,Roasted Fruit,N/A,20,Caramelized orbs from the fire, sweet smoke of the wilds.,5
+roasted_parsnips,Roasted Parsnips,N/A,22,Root veggies charred crisp, humble hearthside delight.,6
+kings_omelette,King's Omelette,N/A,35,Eggs folded with herbs, regal breakfast for fallen thrones.,15
+cranachan,Cranachan,N/A,28,Oat-honey-berry cream, Scottish whisper in Moria's depths.,10
+deep_hash,Deep Hash,N/A,45,Miner's medley of scraps, hashed for endless shifts below.,18
+erebor_strip_steak,Erebor Strip Steak,N/A,50,Tender dwarf-cut beef, sizzled with mountain spices.,25
+fruit_pie,Fruit Pie,N/A,30,Pastry-crusted bounty, flaky joy from orchard ghosts.,12
+fruit_salad,Fruit Salad,N/A,18,Fresh chop of wild fruits, refreshing in dusty delves.,8
+glazed_meat_skewers,Glazed Meat Skewers,N/A,38,Honeyed sticks of grill, sticky satisfaction on spears.,14
+helm_fried_chips,Helm-Fried Chips,N/A,15,Crispy potato slices, fried in helmed halls of old.,5
+mashed_potatoes,Mashed Potatoes,N/A,25,Creamy spud mash, buttery bliss for battle-worn bellies.,7
+medley_skewers,Medley Skewers,N/A,30,Veggie-meat threaded bites, colorful campfire kebabs.,10
+mushroom_pie,Mushroom Pie,N/A,32,Fungi-filled crust, savory pie from fungal forests.,11
+overnight_bowl,Overnight Bowl,N/A,40,Slow-cooked grains and meats, dawn's reward after dark.,16
+refreshing_salad,Refreshing Salad,N/A,20,Crisp greens and fruits, cool cleanse for hot delves.,6
+rommegrot_pudding,Rommegrot Pudding,N/A,35,Rice porridge sweetened slow, Nordic comfort in caves.,13
+scones,Scones,N/A,22,Buttery baked rounds, clotted cream dreams in crumbs.,8
+smashed_curry,Smashed Curry,N/A,42,Spiced mash of roots and meats, fiery fusion underground.,17
+fire_roasted_stew,Fire Roasted Stew,N/A,48,Embers-kissed potage, smoky sustenance from flames.,20
+meat_pie,Meat Pie,N/A,40,Pastry tomb for minced beast, hearty hand-pie for hikes.,14
+meat_stew,Meat Stew,N/A,45,Bubbling broth of chunks, winter's warmth in iron pots.,16
+nanas_casserole,Nana's Casserole,N/A,55,Layered veggie-meat bake, grandmother's ghost in foil.,22
+shire_breakfast,Shire Breakfast,N/A,38,Hobbit's fry-up of eggs and bacon, second breakfast supreme.,12
+stuffed_mushrooms,Stuffed Mushrooms,N/A,28,Fungi caps filled with herbs, earthy bites from the deep.,9
+biltong,Biltong,N/A,20,South African dried beef, spiced strips for endless treks.,10
+beorns_honey_cakes,Beorn's Honey-Cakes,N/A,30,Bear-man's sweetbreads, honey-drenched for shape-shifter strength.,15
+dried_fruit,Dried Fruit,N/A,12,Leathery fruit slices, portable sweetness from sun-baked vines.,4
+salted_meat,Salted Meat,N/A,25,Cured slabs of flesh, preserved against time's hunger.,11
+cookies,Cookies,N/A,18,Sugar-dusted bites, crumbly comfort from cookie sheets.,7
+cram,Cram,N/A,60,Norwegian hardtack, dense dwarf-bread for dire days.,25
+journey_bread,Journey Bread,N/A,70,Traveler's loaf that lasts weeks, tough as the road.,28
+lembas,Lembas,N/A,100,Elven waybread wrapped in mallorn leaves, a week's sustenance in a morsel.,50
+pasties,Pasties,N/A,35,Cornish meat-filled pastries, portable pies for pit miners.,13
+krumkake,Krumkake,N/A,22,Norwegian waffle cones, rolled sweet for festival fairs.,9
+bangers_and_mash,Bangers and Mash,N/A,40,Sausage and spud smash, British belly-bomb for pubs.,14
+tagine,Tagine,N/A,45,Moroccan slow-stew of spices and lamb, aromatic escape in tents.,18

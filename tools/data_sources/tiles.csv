@@ -1,0 +1,11 @@
+id,type,preferred_layer,passable,transparent,description
+grass_tuft,terrain,1,true,true,Low grass for walking over
+tree_oak,terrain,1,false,false,Towering oak with climbable branches
+table_wooden,furniture,1,true,false,Sturdy table for barricades
+bridge_rope,bridge,3,true,true,Swaying rope bridge over chasms
+rock_boulder,terrain,1,false,false,Immovable stone obstacle
+chair_wooden,furniture,1,true,false,Simple seat for resting or stacking
+stairs_up,bridge,1,false,false,Ascending steps to upper levels
+water_wave,terrain,0,true,true,Rippling water with wave animation
+grass_wispy,terrain,1,true,true,Wispy grass swaying in wind
+sand_dune,terrain,1,true,true,Dry desert sands

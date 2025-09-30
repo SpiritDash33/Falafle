@@ -1,0 +1,33 @@
+id,name,durability,description,price
+leather_jacket,Leather Jacket,80,A weathered biker jacket that turns bites into bruises, essential for close scrapes.,25
+kevlar_vest,Kevlar Vest,90,Bullet-resistant weave from SWAT gear, stops lead but not the apocalypse's claws.,60
+chainmail,Chain Mail,75,Interlinked rings forged in forgotten forges, flexible defense against slashes and stabs.,50
+plate_carrier,Plate Carrier,95,Tactical vest with ceramic inserts, heavy but lifesaving against rifle fire.,70
+gas_mask,Gas Mask,85,Sealed respirator against fumes and spores, fogs up but keeps you breathing.,40
+hard_hat,Hard Hat,60,Construction helmet for falling debris, cheap headgear that might save your skull.,10
+tattered_rag,Tattered Rag,30,A filthy scrap barely qualifying as clothing, better than nothing in the cold rain.,5
+survival_vest,Survival Vest,70,Multi-pocketed field jacket for carrying your life in the wilds.,30
+iron_hills_armor,Iron Hills Armor,70,Dwarven-forged plates from the Iron Hills, sturdy against orc blades and cave-ins.,45
+erebor_ringmail,Erebor Ringmail,80,Ring-linked mail from Erebor's armories, light yet unyielding in the deep dark.,55
+belegost_ringmail,Belegost Ringmail,85,Blue Mountains craft of woven steel, elegant protection for elven allies too.,60
+khazad_army_armor,Khazad Army Armor,90,Khazad-dûm legionnaire's hauberk, battle-tested against balrogs and worse.,65
+durins_guard_armor,Durin's Guard Armor,95,Royal Durin plate, gleaming and impenetrable, a relic of ancient halls.,80
+mithril_armor,Mithril Armor,100,Light as silk yet harder than dragon scales, the pinnacle of elven smithing.,100
+blue_mountains_hunters_armor,Blue Mountains Hunter's Armor,65,Leather reinforced with blue gems, ideal for stalking beasts in misty peaks.,35
+trapper_hat,Trapper Hat,50,Fur-lined cap for cold winds, keeps ears warm during long watches.,15
+longbottom_hat,Longbottom Hat,55,Shire hobbit's woolen topper, unassuming but cozy for pipe-weed breaks.,12
+dimrill_helmet,Dimrill Helmet,75,Dimrill Dale forgework, horned and hardy for mountain skirmishes.,30
+belegost_helmet,Belegost Helmet,80,Belegost greathelm, visored for goblin arrows and forge sparks.,35
+khazad_army_helmet,Khazad Army Helmet,85,Khazad phalangite helm, crested for command in the endless wars.,40
+durins_guard_helmet,Durin's Guard Helmet,90,Durin's crown-like morion, symbol of unyielding loyalty.,50
+mithril_helmet,Mithril Helmet,100,Star-crowned mithril coif, whispers of ancient light in the gloom.,70
+erebor_planked_gauntlets,Erebor Planked Gauntlets,75,Erebor smith's leather and plate fists, grip axes through fire and blood.,25
+belegost_gauntlets,Belegost Gauntlets,80,Belegost riveted gloves, fine for gem-cutting or crushing foes.,30
+khazad_army_gauntlets,Khazad Army Gauntlets,85,Khazad infantryman's vambraces, scarred from goblin sieges.,35
+durins_gloves,Durin's Gloves,90,Durin's embroidered gauntlets, royal weave for a king's grip.,45
+mithril_gloves,Mithril Gloves,100,Mithril mesh hands, deft as elf-song, strong as mountain roots.,60
+erebor_boots,Erebor Boots,75,Erebor dwarf-kickers, hobnailed for marching through molten stone.,25
+belegost_boots,Belegost Boots,80,Belegost sabatons, blue-dyed leather for silent forest patrols.,30
+khazad_army_boots,Khazad Army Boots,85,Khazad greaves, iron-shod for stomping trolls into the dust.,35
+durins_guard_boots,Durin's Guard Boots,90,Durin's spurred jackboots, polished for parade or peril.,45
+mithril_slippers,Mithril Slippers,100,Mithril footwraps, light-stepping over thorny paths unseen.,60

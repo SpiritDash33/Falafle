@@ -1,0 +1,21 @@
+id,name,durability,description,price
+scroll_of_detect_monsters,Scroll of Detect Monsters,10,Parchment revealing nearby beasts, a scryer's ink that glows with lurking eyes.,15
+scroll_of_light,Scroll of Light,10,Radiant rune unfurling beams to banish gloom, brief dawn in endless night.,12
+scroll_of_teleport,Scroll of Teleport,10,Chaotic sigil for instant flight, lands you near or in the maw of doom.,20
+scroll_of_word_of_recall,Scroll of Word of Recall,10,Summons the faithful homeward, a prayer's pull through planar threads.,25
+scroll_of_phase_door,Scroll of Phase Door,15,Short-range blink through walls, a thief's trick or coward's escape.,18
+scroll_of_satisfaction,Scroll of Satisfaction,12,Enchanting writ that sates endless hunger, a glutton's forbidden feast.,22
+scroll_of_genocide,Scroll of Genocide,20,Anathema against a foe type, eradicates kin with genocidal ink.,50
+scroll_of_acid,Scroll of Acid,15,Corrosive incantation melting armor and flesh, acid rain from a whisper.,30
+scroll_of_confuse_monster,Scroll of Confuse Monster,10,Befuddling glyph that muddles minds, turns predators to puzzled prey.,16
+scroll_of_magic_mapping,Scroll of Magic Mapping,15,Reveals dungeon contours unseen, cartography by arcane compass.,20
+scroll_of_holy_word,Scroll of Holy Word,18,Divine utterance smiting unclean, a paladin's thunder against the night.,35
+scroll_of_stinking_cloud,Scroll of Stinking Cloud,12,Fetid fog of foul miasma, chokes lungs and blinds the bold.,25
+scroll_of_door_stuck,Scroll of Door Stuck,10,Sealing sigil jamming portals tight, buys time in besieged halls.,14
+scroll_of_destroy_area,Scroll of Destroy Area,20,Cataclysmic curse crumbling stone to dust, levels lairs in a blink.,45
+scroll_of_id,Scroll of Identify,10,Unveils an item's secrets, dispels the veil of unknown enchantments.,15
+scroll_of_remove_curse,Scroll of Remove Curse,15,Breaks hexes and binds, frees gear from malevolent magics.,20
+scroll_of_enchant_weapon,Scroll of Enchant Weapon,12,Infuses blades with power, sharpens steel with sorcerous shine.,25
+scroll_of_enchant_armor,Scroll of Enchant Armor,12,Hardens hides against harm, weaves wards into woven mail.,25
+scroll_of_protection_from_evil,Scroll of Protection from Evil,15,Holy barrier against dark deeds, repels fiends with faith's fire.,30
+scroll_of_holy_weapon,Scroll of Holy Weapon,18,Blesses blades with divine edge, turns iron to instrument of gods.,35

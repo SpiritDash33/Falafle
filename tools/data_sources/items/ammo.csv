@@ -1,0 +1,21 @@
+id,name,durability,description,price
+9mm,9mm Bullet,N/A,A standard pistol round scavenged from abandoned police stations, reliable but common.,2
+45_acp,.45 ACP Bullet,N/A,Heavy-hitting ammo for revolvers, punches through light armor in a pinch.,3
+762,7.62mm Bullet,N/A,Rifle round favored by survivors for its long-range stopping power in the wastes.,4
+shotgun_shell,12 Gauge Shotgun Shell,N/A,Buckshot or slug for close-quarters zombie blasting—messy but effective.,3
+arrow,Wooden Arrow,N/A,A simple fletched shaft for bows, quiet and reusable if you don't lose them.,1
+bolt,Crossbow Bolt,N/A,Sturdy iron-tipped projectile for silent takedowns, heavier than arrows but packs a punch.,2
+rock,Thrown Rock,N/A,Nothing fancy—just a chunk of debris hurled with desperation in the apocalypse.,1
+dart,Blowdart,N/A,Poisoned needle for stealthy hunts, deadly if your lungs hold out.,1
+harpoon,Harpoon,N/A,A barbed spear-throw for reeling in mutants from afar, brutal for fishing too.,5
+nail,Thrown Nail,N/A,Recycled hardware flung from a slingshot, cheap but imprecise against moving targets.,1
+bb,B.B. Pellet,N/A,Tiny metal spheres for air guns, great for plinking rats but useless on hulks.,1
+pellet,Airsoft Pellet,N/A,Plastic training rounds—harmless fun in the old world, now just junk.,1
+rubber_bullet,Rubber Bullet,N/A,Non-lethal crowd control from riot gear, stings but won't kill a zombie.,2
+flare,Flare Cartridge,N/A,Bright signal round to light up the night or blind foes in dark ruins.,4
+smoke_grenade,Smoke Grenade,N/A,Obscuring cloud for escapes or ambushes, chemical haze that chokes the air.,8
+tear_gas,Tear Gas Canister,N/A,Eye-watering irritant for flushing out lairs, but wind can backfire on you.,10
+flashbang,Flashbang Grenade,N/A,Deafening burst of light and sound to stun packs, leaves you reeling too.,12
+pipe_bomb,Pipe Bomb,N/A,DIY explosive packed with nails—crude demolition for barricades or limbs.,15
+molotov,Molotov Cocktail,N/A,Rag-stuffed bottle of flaming death, turns zombies into screaming torches.,5
+dynamite,Dynamite Stick,N/A,Industrial blaster for collapsing tunnels, volatile enough to bury yourself.,20

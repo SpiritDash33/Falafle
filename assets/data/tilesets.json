@@ -1,0 +1,68 @@
+{
+  "tiles": [
+    {
+      "id": "grass",
+      "type": "ground",
+      "texture": "grass.png",
+      "passable": true,
+      "supports_furniture": true,
+      "flammability": 30,
+      "height_levels": [ { "height": 0, "passable": true, "texture_offset": [ 0, 0 ] } ]
+    },
+    {
+      "id": "grass_wispy",
+      "type": "ground",
+      "texture": "grass_wispy.png",
+      "passable": true,
+      "supports_furniture": true,
+      "flammability": 40,
+      "height_levels": [ { "height": 0, "passable": true, "texture_offset": [ 0, 0 ] } ]
+    },
+    {
+      "id": "dirt",
+      "type": "ground",
+      "texture": "dirt.png",
+      "passable": true,
+      "supports_furniture": true,
+      "flammability": 0,
+      "height_levels": [ { "height": 0, "passable": true, "texture_offset": [ 0, 0 ] } ]
+    },
+    {
+      "id": "stone",
+      "type": "ground",
+      "texture": "stone.png",
+      "passable": true,
+      "supports_furniture": true,
+      "flammability": 0,
+      "height_levels": [ { "height": 0, "passable": true, "texture_offset": [ 0, 0 ] } ]
+    },
+    {
+      "id": "tree",
+      "type": "vegetation",
+      "texture": "tree.png",
+      "passable": false,
+      "supports_furniture": false,
+      "flammability": 80,
+      "height_levels": [ { "height": 2, "passable": false, "texture_offset": [ 0, 0 ] } ]
+    },
+    {
+      "id": "wall",
+      "type": "structure",
+      "texture": "wall.png",
+      "passable": false,
+      "supports_furniture": false,
+      "flammability": 0,
+      "height_levels": [ { "height": 3, "passable": false, "texture_offset": [ 0, 0 ] } ]
+    },
+    {
+      "id": "bridge",
+      "type": "bridge",
+      "texture": "bridge.png",
+      "passable": true,
+      "supports_furniture": true,
+      "flammability": 50,
+      "connects_layers": [ 0, 1, 2 ],
+      "height_levels": [ { "height": 1, "passable": true, "texture_offset": [ 0, 0 ] } ]
+    }
+  ]
+}
