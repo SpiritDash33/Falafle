@@ -1,0 +1,16 @@
+Phase,Focus,Key Tasks,Est. Effort,Test Milestone
+MVP Core (Week 1),Basic Loop,"- Build/run: Empty map, WASD move player sprite.
+- Load procedural map/biomes (layer 1 grass/trees).
+- Add tile heights (walk under branches).",Low,Move on multi-height map without crash; biomes visible (color tints).
+Effects & Weather (Week 2),Particles/Lighting,"- Integrate emitters (fire on tree, rain overlay).
+- Day-night tint + moonlight (global light).
+- Weather cycle (rain → splashes/wetness, snow drift).",Medium,"Toggle rain: Streaks + audio; fire spreads on dry grass, stops on wet."
+Audio & UI (Week 3),Immersion,"- Load SFX/BGM; play on move/weather/time.
+- UI menus (inventory list items/descriptions, spell cast).
+- Lightning flash + thunder during rain.",Low-Medium,'I' shows inventory with prices; night BGM fades in.
+Advanced Mechanics (Week 4),Spells/Actor,"- Item reading → learn_spell (UI prompt).
+- Cast → mana deduct + particle effect (e.g., heal spark).
+- Biome effects (swamp fog emitter).",Medium,"Read book → learn ""light"" spell; cast on self → health + glow particle."
+Polish & Expand (Week 5+),Optimization/Save,"- Animated tiles (water waves cycle frames).
+- Save/load (JSON world state + actor).
+- Perf: Cull off-screen particles/layers.",High,Save mid-rain fire spread; load with weather/audio resume. Add tundra biome.

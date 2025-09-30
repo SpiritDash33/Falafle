@@ -1,0 +1,66 @@
+cataclysm-rpg/
+├── CMakeLists.txt                  # Top-level build config (links SDL3, SDL3_mixer, etc.)
+├── README.md                       # Quick setup instructions (e.g., pacman -S sdl3 sdl3_mixer cmake)
+├── .gitignore                      # Ignore build/, generated assets, etc.
+├── src/                            # C++ source code
+│   ├── main.cpp                    # Entry point: initializes SDL3, loads assets, runs game loop
+│   ├── engine/                     # Core reusable engine (graphics, input, audio, particles)
+│   │   ├── renderer.cpp            # SDL3 rendering: tilemap, sprites, particle systems/emitters
+│   │   ├── renderer.h
+│   │   ├── input.cpp               # SDL3 input handling (keyboard, mouse for RPG-style menus/movement)
+│   │   ├── input.h
+│   │   ├── audio.cpp               # SDL3_mixer for sound FX (footsteps, combat hits, ambient)
+│   │   ├── audio.h
+│   │   ├── particles.cpp           # Particle emitters (e.g., blood splatter, fire, debris)
+│   │   ├── particles.h
+│   │   └── utils/                  # Helpers (e.g., logging, math for vectors/rects)
+│   │       ├── log.cpp
+│   │       └── log.h
+│   └── game/                       # Game-specific logic (CDDA-inspired survival RPG)
+│       ├── world.cpp               # Tile-based map generation/loading (procedural like CDDA)
+│       ├── world.h
+│       ├── actor.cpp               # Player/NPCs (movement, inventory, skills)
+│       ├── actor.h
+│       ├── items.cpp               # Item system (crafting, scavenging from JSON data)
+│       ├── items.h
+│       ├── ui.cpp                  # RPGMaker-style menus (dialogs, inventory screens)
+│       └── ui.h
+├── include/                        # Public headers (if needed for external libs/tools)
+│   └── (empty for now; add SDL3 headers via system paths)
+├── assets/                         # Static and generated assets
+│   ├── graphics/                   # RPGMaker-style 32x32 tiles, sprites (PNG)
+│   │   ├── tiles/                  # Overworld, interior, zombie sprites
+│   │   ├── particles/              # Emitter textures (e.g., smoke.png, spark.png)
+│   │   └── ui/                     # Menu backgrounds, icons
+│   ├── sounds/                     # OGG/WAV FX (zombie groans, crafting clinks)
+│   │   ├── fx/                     # Combat, movement, UI sounds
+│   │   └── ambient/                # Looping backgrounds (rain, wind)
+│   └── data/                       # Generated JSON (items, recipes, maps) from Python tools
+│       ├── items.json              # Item defs (e.g., {"id": "bandage", "craft_time": 5})
+│       ├── recipes.json            # CDDA-style crafting trees
+│       └── maps/                   # Procedural seed data or static JSON maps
+│       └── tilesets.json           # Example + generated
+├── tools/                          # Python toolchain for data generation
+│   ├── Pipfile                     # Dependency manifest (below)
+│   ├── Pipfile.lock                # Auto-generated; commit for locks
+│   ├── requirements.txt            # pip deps (e.g., json, random for procedural gen)
+│   ├── generate_data.py            # Main script: parses CSV/JSON sources, outputs assets/data/*.json
+│   ├── data_sources/               # Input files (CSV for items, TSV for recipes)
+│   └── ├── ammo.csv
+│       ├── armor.csv
+│       ├── chems.csv
+│       ├── books.csv               # New: Tomes/grimoires
+│       ├── clothing.csv
+│       ├── consumables.csv
+│       ├── container.csv
+│       ├── melee.csv
+│       ├── misc.csv                # For Moria Âbakhs, etc.
+│       ├── scrolls.csv             # New: Single-use scrolls
+│       ├── spells.csv              # New: Wands/potions/staffs
+│       └── tool.csv
+└── recipes.tsv                     # Unchanged
+│   └── build_datasets.sh           # Updated to use pipenv run
+├── build/                          # Generated build files (git-ignored)
+│   └── (CMake output, binaries)
+└── docs/                           # Documentation
+    └── design.md                   # Full design document (below)
